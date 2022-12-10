@@ -16,7 +16,7 @@ namespace TransWordTestProject
         /// <summary>
         /// 將大寫字母轉成底線與小寫
         /// 開頭大寫只轉換小寫
-        /// 空字串回傳NULL
+        /// null, 空字串回傳自己
         /// </summary>
         /// <param name="words">轉換字串</param>
         /// <returns></returns>
